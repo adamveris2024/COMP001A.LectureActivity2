@@ -1,0 +1,9 @@
+/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Adam Verissimo */
+/*
+ this
+ is
+ a
+ multi-line
+ comment
+*/
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
